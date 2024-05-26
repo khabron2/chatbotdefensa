@@ -116,7 +116,7 @@ const flowReclamo = addKeyword(['3']).addAnswer(
 )
 
 //consulta de horarios
-const flowHorario = addKeyword(['hora', 'horarios', 'hour'])
+const flowHorario = addKeyword(['hora', '4', 'hour'])
      .addAnswer(    
     [
         'Lunes a Viernes',
