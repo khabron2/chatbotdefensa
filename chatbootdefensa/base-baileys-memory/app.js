@@ -134,6 +134,7 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'menu'])
     .addAnswer('🙌¡Bienvenido al Chatbot de *Defensa del Consumidor*! ¿En qué puedo ayudarte hoy?')
     .addAnswer(
         [    
+            '\n Escribe el número segun opcion que necesites',
             '👉 *1) Presentar un reclamo*',
             'Si has tenido problemas con un producto o servicio y la empresa no ha proporcionado una solución, puedes presentar un reclamo aquí.',
             '👉 *2) Solicitar una visita de inspectores*',
