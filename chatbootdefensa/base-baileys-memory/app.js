@@ -141,6 +141,7 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'menu'])
             '👉 *3) Ver requisitos para realizar un reclamo*',
             'Si deseas iniciar un reclamo, puedes descargar el formulario necesario seleccionando esta opción.',
             '👉 *4) Conocer Horarios de Atencion*',
+            'Horarios de Atencion al Publico',
         ],
         null,
         null,
