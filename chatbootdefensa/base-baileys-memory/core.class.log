@@ -1,0 +1,344 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493834465044@s.whatsapp.net',
+    fromMe: false,
+    id: 'D97D18C88A42C350AE866EDF9FBF9880',
+    participant: undefined
+  },
+  messageTimestamp: 1716818081,
+  pushName: 'Iván',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493834465044'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ef6c9677-6b86-4149-9aef-ee45997463b0',
+  keyword: 'key_1ea3b318-3355-4b89-8be4-69a7f125994a',
+  answer: '🙌¡Bienvenido al Chatbot de *Defensa del Consumidor*! ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37f96cbc6fd33b57852559cc133aabe9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd70b21d-7405-4fee-b4a3-a292f554a33c',
+  keyword: 'ans_ef6c9677-6b86-4149-9aef-ee45997463b0',
+  answer: '\n' +
+    ' Escribe el número segun opcion que necesites\n' +
+    '👉 *1) Presentar un reclamo*\n' +
+    'Si has tenido problemas con un producto o servicio y la empresa no ha proporcionado una solución, puedes presentar un reclamo aquí.\n' +
+    '👉 *2) Solicitar una visita de inspectores*\n' +
+    'Si necesitas que nuestros inspectores evalúen tu situación, selecciona esta opción para solicitar una visita.\n' +
+    '👉 *3) Ver requisitos para realizar un reclamo*\n' +
+    'Si deseas iniciar un reclamo, puedes descargar el formulario necesario seleccionando esta opción.\n' +
+    '👉 *4) Conocer Horarios de Atencion*\n' +
+    'Horarios de Atencion al Publico',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0c8e45bcafa42520bca23e80e7a0cf2e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493834465044@s.whatsapp.net',
+    fromMe: false,
+    id: 'DB84F61022241A6269FC3605F1D711B2',
+    participant: undefined
+  },
+  messageTimestamp: 1716818086,
+  pushName: 'Iván',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493834465044'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4deec481-f1bd-4727-8139-a0b3ab25258d',
+  keyword: 'key_bb1484b9-feef-446c-a4ab-6aa7f6f6944c',
+  answer: '➡️ *1) Presentar un reclamo en Ventanilla Única*\n' +
+    '\n' +
+    ' ¿Tuviste un problema con un producto o servicio? Si la empresa no te proporciona una solución, presenta tu reclamo aquí:\n' +
+    '🔗 https://www.argentina.gob.ar/produccion/defensadelconsumidor/hacer-un-reclamo\n' +
+    '\n' +
+    ' 🔙 Escribir *menu* para volver al menú principal.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2435de5773d112b6ff1d480ae38c7679'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493834465044@s.whatsapp.net',
+    fromMe: false,
+    id: '6686F2659C7163BDC0B56939AD717724',
+    participant: undefined
+  },
+  messageTimestamp: 1716818224,
+  pushName: 'Iván',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5493834465044'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ef6c9677-6b86-4149-9aef-ee45997463b0',
+  keyword: 'key_1ea3b318-3355-4b89-8be4-69a7f125994a',
+  answer: '🙌¡Bienvenido al Chatbot de *Defensa del Consumidor*! ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37f96cbc6fd33b57852559cc133aabe9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd70b21d-7405-4fee-b4a3-a292f554a33c',
+  keyword: 'ans_ef6c9677-6b86-4149-9aef-ee45997463b0',
+  answer: '\n' +
+    ' Escribe el número segun opcion que necesites\n' +
+    '👉 *1) Presentar un reclamo*\n' +
+    'Si has tenido problemas con un producto o servicio y la empresa no ha proporcionado una solución, puedes presentar un reclamo aquí.\n' +
+    '👉 *2) Solicitar una visita de inspectores*\n' +
+    'Si necesitas que nuestros inspectores evalúen tu situación, selecciona esta opción para solicitar una visita.\n' +
+    '👉 *3) Ver requisitos para realizar un reclamo*\n' +
+    'Si deseas iniciar un reclamo, puedes descargar el formulario necesario seleccionando esta opción.\n' +
+    '👉 *4) Conocer Horarios de Atencion*\n' +
+    'Horarios de Atencion al Publico',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0c8e45bcafa42520bca23e80e7a0cf2e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493834465044@s.whatsapp.net',
+    fromMe: false,
+    id: '7BD0542976800563D0D3BC0B5A431066',
+    participant: undefined
+  },
+  messageTimestamp: 1716818262,
+  pushName: 'Iván',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493834465044'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee4b5069-72b1-4692-bd96-2a3494b300b8',
+  keyword: 'key_562fad25-d75c-4bf9-9183-608c0f4c2f26',
+  answer: '🙌 *2) Solicitar una visita de inspectores*\n' +
+    'Completa este formulario para solicitar una visita de inspectores al lugar donde tuviste algún inconveniente: \n' +
+    ' 🔗 https://sites.google.com/catamarca.gov.ar/defensa-del-consumidor\n' +
+    '\n' +
+    ' 🔙 Escribir *menu* para volver al menú principal.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '89292cbc24f020fc309c850072f3c11d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493834465044@s.whatsapp.net',
+    fromMe: false,
+    id: '4BD97735788AD380CE3CF8411D866978',
+    participant: undefined
+  },
+  messageTimestamp: 1716818475,
+  pushName: 'Iván',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '5493834465044'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ef6c9677-6b86-4149-9aef-ee45997463b0',
+  keyword: 'key_1ea3b318-3355-4b89-8be4-69a7f125994a',
+  answer: '🙌¡Bienvenido al Chatbot de *Defensa del Consumidor*! ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37f96cbc6fd33b57852559cc133aabe9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd70b21d-7405-4fee-b4a3-a292f554a33c',
+  keyword: 'ans_ef6c9677-6b86-4149-9aef-ee45997463b0',
+  answer: '\n' +
+    ' Escribe el número segun opcion que necesites\n' +
+    '👉 *1) Presentar un reclamo*\n' +
+    'Si has tenido problemas con un producto o servicio y la empresa no ha proporcionado una solución, puedes presentar un reclamo aquí.\n' +
+    '👉 *2) Solicitar una visita de inspectores*\n' +
+    'Si necesitas que nuestros inspectores evalúen tu situación, selecciona esta opción para solicitar una visita.\n' +
+    '👉 *3) Ver requisitos para realizar un reclamo*\n' +
+    'Si deseas iniciar un reclamo, puedes descargar el formulario necesario seleccionando esta opción.\n' +
+    '👉 *4) Conocer Horarios de Atencion*\n' +
+    'Horarios de Atencion al Publico',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0c8e45bcafa42520bca23e80e7a0cf2e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493834465044@s.whatsapp.net',
+    fromMe: false,
+    id: '2B4D04073698BCC52F256977794CD608',
+    participant: undefined
+  },
+  messageTimestamp: 1716818478,
+  pushName: 'Iván',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5493834465044'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_13d9fb24-03e6-42f7-83f0-9ca9827c53a0',
+  keyword: 'key_607350cc-e215-40b8-84f0-738d9c40ac7f',
+  answer: 'Si tuviste problemas con la factura de luz, puedes realizar el reclamo en nuestras oficinas. Recuerda traer toda la documentación necesaria para procesar el reclamo pertinente.\n' +
+    '\n' +
+    'Recuerda el horario de atención al público\n' +
+    '⏰*07:30* A.M. a *12:30* P.M\n' +
+    '\n' +
+    ' 🔙 Escribir *menu* para volver al menú principal.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c03f7becb3d46c32ff3234335e770a65'
+}

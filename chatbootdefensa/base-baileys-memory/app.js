@@ -4,6 +4,7 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
+
 //consulta sobre gas
 const flowGas = addKeyword(['gas', 'g', 'gs']).addAnswer(
     [
