@@ -82,17 +82,7 @@ const flowGracias = addKeyword(['gracias', 'doc', 'pdf']).addAnswer(
 )
 
 //consulta sobre boletas
-const flowboletas = addKeyword(['gas', 'luz', 'agua']).addAnswer(
-    [
-        '🚀 si tubiste un problema con algun servico selecciona alguno',
-        'Presiona *g* Con las boletas de *Gas*',
-        'Presiona *l* las boletas de *luz*',
-        'Presiona *a* las boletas de *Agua*',
-        '\n 🔙 Escribir *menu* para volver al menú principal.',
-    ],
-    null,
-    null,
-)
+
 
 //consulta sobre reclamo
 const flowReclamo = addKeyword(['3']).addAnswer(
@@ -147,7 +137,7 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'menu'])
         ],
         null,
         null,
-        [flowVentanilla, flowInspeccion, flowReclamo,flowformularios,flowboletas,flowGas,flowluz,flowHorario,flowGracias]
+        [flowVentanilla, flowInspeccion, flowReclamo,flowformularios,flowGas,flowluz,flowHorario,flowGracias]
     )
 
 
